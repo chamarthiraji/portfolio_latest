@@ -10,7 +10,7 @@
   },
   "scripts": {
     
-    "start": "node server.js"
+    "start": "node Gruntfile.js"
   }
   "devDependencies": {
     "grunt": "^0.4.5",
