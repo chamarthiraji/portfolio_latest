@@ -11,7 +11,7 @@
   "scripts": {
     
     "start": "node Gruntfile.js"
-  }
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-banner": "~0.2.3",
